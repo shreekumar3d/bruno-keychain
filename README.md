@@ -1,11 +1,11 @@
 # bruno-keychain
-3D printable keychain desgin, for bruno - an open source API client with a cute logo and more!
+3D printable keychain desgin, for [Bruno](https://www.usebruno.com/) - an open source 100% offline API client with a cute logo and more!
 
 This project is fan art, basically going from the 2D logo -
 
 <img src="1F436_color.png" alt="2D logo" width="200"/>
 
-to 3D prints (photo credit: [Anoop](https://www.helloanoop.com/), lead author and CEO of Bruno)
+to 3D prints (photo credit: [Anoop](https://www.helloanoop.com/), lead developer of Bruno)
 
 <img src="images/in-bruno.jpg" alt="3D keychains" width="600"/>
 
